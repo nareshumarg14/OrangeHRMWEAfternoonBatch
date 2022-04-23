@@ -1,0 +1,112 @@
+[INFO ] 23-04-2022 03:20:45.593 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 23-04-2022 03:20:46.608 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:20:46.905 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 03:20:47.156 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 03:20:48.747 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 03:20:48.808 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 03:20:49.598 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 03:22:49.130 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 23-04-2022 03:22:50.115 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:22:50.457 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 03:22:50.729 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 03:22:52.672 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 03:22:52.766 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 03:22:53.672 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 03:31:19.525 TC001_Login_Test - Chrome browser is launched successfully
+[INFO ] 23-04-2022 03:31:20.656 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:31:20.966 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 03:31:21.224 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 03:31:22.892 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 03:31:22.978 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 03:31:23.921 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 03:31:25.262 TC002_CheckApplicationTitle - Chrome browser is launched successfully
+[INFO ] 23-04-2022 03:31:26.344 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:31:26.354 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2022 03:31:27.173 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2022 03:32:00.947 TC001_Login_Test - Edge browser is launched successfully
+[INFO ] 23-04-2022 03:32:02.041 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:32:02.360 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 03:32:02.604 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 03:32:04.241 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 03:32:04.303 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 03:32:05.285 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 03:32:06.794 TC002_CheckApplicationTitle - Edge browser is launched successfully
+[INFO ] 23-04-2022 03:32:07.816 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:32:07.830 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2022 03:32:08.869 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2022 03:32:37.056 TC001_Login_Test - Firefox browser is launched successfully
+[INFO ] 23-04-2022 03:32:38.252 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:32:38.508 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 03:32:38.654 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 03:32:40.347 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 03:32:40.407 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 03:32:42.034 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 03:32:48.277 TC002_CheckApplicationTitle - Firefox browser is launched successfully
+[INFO ] 23-04-2022 03:32:49.423 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:32:49.455 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2022 03:32:50.774 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2022 03:46:56.915 TC001_Login_Test - Firefox browser is launched successfully
+[INFO ] 23-04-2022 03:46:58.173 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:46:58.429 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 03:46:58.579 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 03:47:00.153 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 03:47:00.230 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 03:47:00.717 TC001_Login_Test - Screenshot captured successfully
+[INFO ] 23-04-2022 03:47:02.155 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 03:47:08.524 TC002_CheckApplicationTitle - Firefox browser is launched successfully
+[INFO ] 23-04-2022 03:47:09.758 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 03:47:09.777 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2022 03:47:10.370 TC002_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 23-04-2022 03:47:11.699 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2022 04:07:08.214 TC001_Login_Test - Firefox browser is launched successfully
+[INFO ] 23-04-2022 04:07:09.405 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 04:07:09.635 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 04:07:09.747 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 04:07:11.271 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 04:07:11.338 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 04:07:11.786 TC001_Login_Test - Screenshot captured successfully
+[INFO ] 23-04-2022 04:07:13.313 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 04:07:20.211 TC002_CheckApplicationTitle - Firefox browser is launched successfully
+[INFO ] 23-04-2022 04:07:21.414 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 04:07:21.434 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2022 04:07:21.996 TC002_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 23-04-2022 04:07:23.363 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2022 04:08:50.193 TC001_Login_Test - Firefox browser is launched successfully
+[INFO ] 23-04-2022 04:08:51.347 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 04:08:51.612 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 04:08:51.734 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 04:08:53.412 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 04:08:53.467 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 04:08:53.860 TC001_Login_Test - Screenshot captured successfully
+[INFO ] 23-04-2022 04:08:55.468 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 04:09:02.149 TC002_CheckApplicationTitle - Firefox browser is launched successfully
+[INFO ] 23-04-2022 04:09:03.265 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 04:09:03.280 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2022 04:09:03.878 TC002_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 23-04-2022 04:09:05.278 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2022 04:12:19.815 TC001_Login_Test - Firefox browser is launched successfully
+[INFO ] 23-04-2022 04:12:21.071 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 04:12:21.340 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 04:12:21.483 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 04:12:23.063 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 04:12:23.148 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 04:12:23.558 TC001_Login_Test - Screenshot captured successfully
+[INFO ] 23-04-2022 04:12:25.023 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 04:12:31.736 TC002_CheckApplicationTitle - Firefox browser is launched successfully
+[INFO ] 23-04-2022 04:12:33.012 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 04:12:33.018 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2022 04:12:33.638 TC002_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 23-04-2022 04:12:35.073 TC002_CheckApplicationTitle - Browser closed successfully
+[INFO ] 23-04-2022 04:13:21.423 TC001_Login_Test - Firefox browser is launched successfully
+[INFO ] 23-04-2022 04:13:22.451 TC001_Login_Test - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 04:13:22.739 TC001_Login_Test - Username entered is - Admin
+[INFO ] 23-04-2022 04:13:22.868 TC001_Login_Test - Password entered is - admin123
+[INFO ] 23-04-2022 04:13:24.500 TC001_Login_Test - Clicked on Login button
+[INFO ] 23-04-2022 04:13:24.574 TC001_Login_Test - User logged into the application successfully
+[INFO ] 23-04-2022 04:13:24.959 TC001_Login_Test - Screenshot captured successfully
+[INFO ] 23-04-2022 04:13:26.326 TC001_Login_Test - Browser closed successfully
+[INFO ] 23-04-2022 04:13:32.438 TC002_CheckApplicationTitle - Firefox browser is launched successfully
+[INFO ] 23-04-2022 04:13:33.666 TC002_CheckApplicationTitle - Orange HRM application is launched successfully
+[INFO ] 23-04-2022 04:13:33.686 TC002_CheckApplicationTitle - Title of the application is OrangeHRM
+[INFO ] 23-04-2022 04:13:34.292 TC002_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 23-04-2022 04:13:35.589 TC002_CheckApplicationTitle - Browser closed successfully
